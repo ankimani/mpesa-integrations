@@ -6,3 +6,4 @@ target/
 .project
 .env
 *.log
+docs/youtube/
